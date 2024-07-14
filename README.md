@@ -1,10 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rishurjk.rishurjk" />
-<style>
-  .bold-color {
-    font-weight: bold;
-    color: #ff5733; /* Replace with your desired color code */
-  }
-  </style>
+
 <h1 align="center">
  <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=100&color=F7F41D&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi++there!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Rishuraj+Kumar!;Skills+-+HTML;C+Programming;Java" alt="Typing SVG" />
