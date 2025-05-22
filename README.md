@@ -1,31 +1,46 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rishurjk.rishurjk" />
 
 <h1 align="center">
- <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=100&color=2AC2F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi++there!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Rishuraj+Kumar!;Skills+-+HTML;C+Programming;Java" alt="Typing SVG" />
- </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=100&color=2AC2F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi++there!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Rishuraj+Kumar!;Full+Stack+Developer+%7C+Java+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+  </a>
 </h1>
 
 <h3 align="center">
   Passionate about coding and technology, striving to make a mark in the tech world.
 </h3>
-</br>
-<div align="center">
-  <p itemprop="email" aria-label="Email: rishurajkumar01@gmail.com" class="vcard-detail pt-1 ">   📫 Reach me at :
-    <a class="Link--primary" href="mailto:rishurajkumar01@gmail.com">
-      <b>Email</b>
-    </a>
-  </p>
-  
-  🌱 Currently learning: <b style="background-color:blue;">Java, Data Structures, and Full Stack Web Development.</b>
-  
-  🤝 Open to: <b>Collaborating on real-world software projects and internships.</b>
 
-  🛠️ Focus: <b>Creating responsive and dynamic web applications.</b>
-  
-  💬 Ask me about <b>College journey, project ideas, or your favorite tech stack</b>
+---
 
-  ⚡ Fun fact <b class="bold-color">The first computer mouse, invented in 1964, was made of wood!</b>
+📫 **Reach me at**: [Email](mailto:rishurajkumar01@gmail.com)
+
+🌱 **Currently Learning**:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Full Stack Web Development  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Java & Data Structures
+
+🛠️ **Tech Stack**:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• C Programming, Git & GitHub
+
+🚀 **Focus**:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Building responsive and dynamic web applications
+
+🤝 **Open To**:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Collaborating on real-world software projects and internships
+
+💬 **Ask Me About**:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• College journey, tech stack choices, and project ideas
+
+🎯 **Goal**:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• To become a skilled Software Engineer and contribute to impactful solutions
+
+⚡ **Fun Fact**:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The first computer mouse, invented in 1964, was made of wood!
+
+---
+
+✨ *Let’s connect and innovate together!* 😄
+
 
 
 
