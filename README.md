@@ -17,15 +17,15 @@
     </a>
   </p>
   
-  🌱 Learning <b style="background-color:blue;">Java & basic data structures.</b>
+  🌱 Currently learning: <b style="background-color:blue;">Java, Data Structures, and Full Stack Web Development.</b>
   
-  👯 Interested in <b>collaborating on coding projects.</b>
+  🤝 Open to: <b>Collaborating on real-world software projects and internships.</b>
 
-  🔭 Currently focusing on <b>building strong programming skills.</b>
+  🛠️ Focus: <b>Creating responsive and dynamic web applications.</b>
   
-  💬 Ask me about <b>college life, elective choices, or exploring computer science.</b>
+  💬 Ask me about <b>College journey, project ideas, or your favorite tech stack</b>
 
-  ⚡ Fun fact <b class="bold-color">The computer mouse was invented by Douglas Engelbart in 1964 and was made of wood.</b>
+  ⚡ Fun fact <b class="bold-color">The first computer mouse, invented in 1964, was made of wood!</b>
 
 
 
