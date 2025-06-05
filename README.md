@@ -1,5 +1,4 @@
-<img align="right" src="![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rishurjk.rishurjk)
-/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rishurjk.rishurjk"/>
 
 <h1 align="center">
  <a href="https://git.io/typing-svg">
